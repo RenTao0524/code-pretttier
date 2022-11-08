@@ -1,0 +1,19 @@
+{
+  "name": "code-prettier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "2.7.1",
+    "stylelint-config-prettier": "^9.0.3"
+  }
+}

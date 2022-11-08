@@ -1,0 +1,13 @@
+.body {
+  color: red;
+}
+p {
+  color: green;
+}
+li {
+  color: darkblue;
+}
+
+p {
+  font-size: 12px;
+}
